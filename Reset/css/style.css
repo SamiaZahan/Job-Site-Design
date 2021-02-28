@@ -1,0 +1,49 @@
+<html>
+
+<head> 
+<title></title>
+<link href="CSS/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+ 
+    <div class="up">
+ 
+        <div class="image1">
+	    <img src="IMAGE/img1.png" style="float:left">
+	    </div>
+	 
+	    <div class="text1">
+        <h1>CPD FOR NURSES</h1>
+        <p style=" text-align:left; padding-left:34px">Our anywhere, anytime CPD solution is all about supporting a work life balance. With 96 online topics relavent to caring for older people and the tools to manage your CPD.You'll always be audit ready.</p>
+        <p style=" text-align:left; padding-left:34px">For just $10 per month nurses get:</p>
+		<p style=" text-align:left; padding-left:34px">Minimum 20 hours CPD Online learning needs analysis and plans tools CPD activity tool to record additional CPD activities Electronic transcript as evidence of all nurse CPD requirements.</p> 
+	    </div>
+	</div>
+	
+	 <div class="down">
+	 
+	    <div class="text2">
+        <h2>SPECIALIST RETAIL KNOWLEDGE IS AT THE HEART OF OUR ORGANIZATION</h2>
+        <p>Retail is major focus for Peopleplan. Our CEO Gearard
+		Menion was previously the National Training Manager for 
+		Rebel Sport and has been developing online and 
+		communications solution since 2001,educatng millions of 
+		workers in the process.Alingside Peter James Ryan he wrote
+		the groundbreaking book Retall is a University. Our team has
+		also worked with the largest retailer i Australia including
+		Super Retail Group. Michael Hill and Fujitsu add this all 
+		together and you have a company that trueky understands
+		retails growing needs.</p>
+       
+	    </div>
+ 
+        <div class="image2">
+	    <img src="IMAGE/img2.jpg" style="float:right">
+	    </div>
+	</div>
+
+	
+</body>
+
+</html>

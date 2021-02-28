@@ -1,0 +1,21 @@
+[class^=col-]{
+    margin-top:10px;
+}
+
+.col-md-4{ background:white;}
+.col-md-6{ background:white;}
+.col-md-12{ background:white;}
+
+.footer-Content{background:black;}
+.copyright{height:50px;}
+.copyright  p{ text-align:center; color:white;padding-top:10px;}
+
+.dash{	height:1px;	width:100%;	background-color:white; margin-top:20px;}
+
+.btn-common{background-color:#F10D29; color:white;}{{}}
+ul{padding:0px;}
+ul.icon{display:flex;}
+ul li{list-style: none;}
+ul.icon li  a   {width:50px; background:#F10D29;   text-align:center;font-size:35px; margin-right:10px; display:block; border-radius:50px;  
+}
+ul.icon li  a  i{color:white;}

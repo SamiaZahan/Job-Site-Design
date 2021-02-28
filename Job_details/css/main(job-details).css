@@ -1,0 +1,59 @@
+.navbar-header{height:70px}
+
+.nav-element ul li{
+	list-style:none;
+	display: inline-block;
+	border-radius: 10px;
+	 padding:20px;
+}
+.nav-element ul li a   {height:40px;padding:5px; background:transparent; text-align:center;  display:block; border-radius:10px; color:black;} 
+.nav-element ul li a:hover{
+	background:#F10D29;
+	transition: 0.8s;
+	color:white;
+}
+.nav-element img{height:30px}
+.nav-right ul li  {padding-top:10px; display:inline-block}
+.nav-right ul li  a   {margin-top:10px;height:40px;width:150px;padding:5px; background: white; text-align:center; display:block; border-radius:10px; color:#F10D29;border:1px solid #F10D29} 
+.nav-right ul li a:hover{
+	background:#F10D29;
+	transition: 0.8s;
+	color:white;
+}
+
+
+
+.head{height:200px;background:url("../images/login3.jpg");background-size:100% 200px; margin-bottom:30px}
+.form{ height:500px; padding-top:100px; padding-left:30%; padding-right:30%}
+
+
+.job-type{height:200px; box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4); transition: .8s; width:100%; padding-left:13px; padding-right:13px; margin-bottom:20px}
+.description{ height:500px;box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4); transition: .8s; width:100%; padding-left:13px; padding-right:13px; margin-bottom:20px}
+
+.related{ box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4); transition: .8s; width:100%; padding-left:13px; padding-right:13px; margin-bottom:20px}
+.adv1{border: 1px solid gray;padding-top:20px;margin-top:20px;}
+.adv1 img{width:100px;height:80px;}
+.full-time{margin-left:20px;display:block; background:#04063E; color:white;border-radius:20px;text-align:center;height:30px;width:90px;font-size:12px;padding-top:5px}
+.card-element ul li{display:inline-block; margin-right:10px} 
+.card-element a{color:gray}
+.applyjob a{float:right; background:#F10D29; color:white; border-radius:20px;text-align:center;height:35px;margin-top:0;margin-bottom:5px;width:120px;padding-top:4px}
+
+.feature{ height:300px;box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4); transition: .8s; width:100%; padding-left:13px; padding-right:13px; margin-bottom:20px}
+.job-gallery{ height:400px;box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4); transition: .8s; width:100%; padding-left:13px; padding-right:13px; margin-bottom:20px}
+
+.job-details{ box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4); transition: .8s; width:100%; padding-left:13px; padding-right:13px; margin-bottom:20px}
+.job-details p{float:right}
+.job-details a{color:gray}
+.footer-Content{background:black}
+.copyright{height:50px;}
+.copyright  p{ text-align:center; color:white;padding-top:10px;}
+
+.dash{	height:1px;	width:100%;	background-color:white; margin-top:20px;}
+
+.btn-common{background-color:#F10D29; color:white;}
+ul{padding:0px;}
+ul.icon{display:flex;}
+ul li{list-style: none;}
+ul.icon li  a   {width:50px; background:#F10D29;   text-align:center;font-size:35px; margin-right:10px; display:block; border-radius:50px;  
+}
+ul.icon li  a  i{color:white;}
